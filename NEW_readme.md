@@ -88,7 +88,7 @@ Cần hai checkpoint:
    ```text
    checkpoints/docres.pkl
    ```
-
+àda
 Tạo thư mục nếu chưa có:
 
 ```bash
